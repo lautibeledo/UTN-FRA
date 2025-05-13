@@ -1,0 +1,75 @@
+whoami
+who
+id
+w
+last
+usame
+uname_a
+uname -a
+cat/proc/partitions
+free -h
+df -h
+lsb_release -a
+isblk
+iscpu
+ps aux
+top
+ssh-keygen -t ed25519
+whoami 
+echo “Usuario=$(whoami)” > datos_usuario.txt
+“usuario:<nombre-del-usuario>
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt 
+E
+git add
+cd t
+pwd
+git add
+ls
+git add .
+git clone git@github.com:lautibeledo/UTN-FRA.git
+cd UTN-FRA
+git add '
+cd UTN-FRA
+git add .
+[200~git config --global user.email "beledolautaro@gmail.com"
+Saluda a Lautaro Fernandez
+Enviar mensaje a @Lautaro Fernandez
+git config --global user.email "beledolautaro@gmail.com"
+git config --global user.name "lautaro"
+git commit -m "ADD: agregado primer ejercicio sobre datos_usuario .txt"
+git commit-m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+grep "model name" /proc/cpuinfo
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuarios.txt
+[200~grep "model name" /proc/cpuinfo | head -n1 >>
+grep "model name" /proc/cpuinfo | head -n1
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuarios.txt
+"model name" /proc/cpuinfo
+grep "model name" /proc/cpuinfo
+grep "model name" /proc/cpuinfo | head -n1
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuarios.txt
+grep "model name" /proc/cpuinfo 
+grep "model name" /proc/cpuinfo | head -n1
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuario.txt
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuario.txt
+"model name" /proc/cpuinfo 
+grep "model name" /proc/cpuinfo 
+grep "model name" /proc/cpuinfo | head -n1
+grep "model name"/proc/cpuinfo | head -n1 >> datos_usuario.txt
+grep "model name" /proc/cpuinfo
+grep "model name" /proc/cpuinfo | head -n1
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuario.txt
+grep "model name" /proc/cpuinfo
+grep "model name" /proc/cpuinfo | head -n1
+grep "model name" /proc/cpuinfo | head -n1 >>
+grep "model name" /proc/cpuinfo
+git add README.md datos_usuarios.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+cd UTN-FRA
