@@ -109,3 +109,6 @@ vagrant halt
 ### Cosas curiosas que uno encuentra por ahi...
 - [Entorno de desarrollo Vagrant + laravel](https://medium.com/@joaquin.villagra/homestead-el-entorno-de-desarrollo-ideal-para-laravel-36844d38dc55)
 
+Alumno: <lautaro> 
+División: <211> 
+Turno: <tarde>  
